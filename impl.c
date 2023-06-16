@@ -1,3 +1,9 @@
+/*
+ * Author : Vinay V Vasista
+ * Email  : vasistavinay@gmail.com
+ * Date   : 30/05/2019
+ */
+
 #include <math.h>
 #include <iostream>
 #include <stdlib.h>
